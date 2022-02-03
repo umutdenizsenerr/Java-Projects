@@ -1,0 +1,36 @@
+Location 0: (0.00, 0.00)
+Passenger 4: 100.00
+Location 1: (12.60, 15.00)
+Passenger 7: 0.00
+Location 2: (10.40, 22.60)
+Location 3: (19.40, 33.40)
+Location 4: (30.00, 40.00)
+Location 5: (60.00, 80.00)
+Location 6: (50.00, 40.00)
+Location 7: (44.80, 53.60)
+Passenger 1: 38.43
+Passenger 5: 65.00
+Location 8: (73.20, 23.40)
+Passenger 8: 29.00
+Location 9: (22.80, 66.20)
+Location 10: (68.80, 45.20)
+Passenger 6: 191.97
+Location 11: (15.80, 44.40)
+Location 12: (55.60, 23.40)
+Location 13: (45.60, 15.80)
+Location 14: (52.40, 34.20)
+Location 15: (75.60, 66.60)
+Location 16: (46.20, 75.40)
+Location 17: (44.00, 65.00)
+Location 18: (35.00, 57.40)
+Location 19: (16.00, 76.00)
+Location 20: (10.00, 10.00)
+Location 21: (76.00, 54.40)
+Passenger 2: 41.00
+Location 22: (82.80, 35.40)
+Location 23: (83.20, 14.60)
+Location 24: (55.20, 5.20)
+Location 25: (42.40, 33.80)
+Passenger 3: 54.51
+Location 26: (120.00, 130.00)
+Passenger 0: 40.37
